@@ -1,1 +1,1 @@
-# class_always_be_learning
+# always_be_learning(class)
